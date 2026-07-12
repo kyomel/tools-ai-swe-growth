@@ -1,3 +1,25 @@
-# List Tools AI For Software Engineer
+# 📦 List Tools AI For Software Engineer
 
-Ini merupakan list kumpulan tools AI yang ada di grup AI https://swegrowth.id/. Silahkan cari berdasarkan category dibawah ini:
+> Database kumpulan tools AI untuk software engineer dari komunitas [SWE Growth](https://swegrowth.id/)
+
+---
+
+## 📑 Daftar Kategori
+
+| ID | Kategori | Jumlah | Link |
+|----|----------|--------|------|
+| P | Providers | 7 | [providers.md](providers.md) |
+| CA | Coding Agents | 5 | [codingagents.md](codingagents.md) |
+| ADE | AI Dev Environment | 4 | [ade.md](ade.md) |
+
+---
+
+## 🔗 Quick Navigation
+
+- [Semua Providers](providers.md#-daftar-providers)
+- [Semua Coding Agents](codingagents.md#-daftar-coding-agents)
+- [Semua ADE](ade.md#-daftar-ade)
+
+---
+
+*Last Update: 12 Juli 2026, 21:42 WIB*
