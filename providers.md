@@ -10,13 +10,18 @@
 
 | ID | Provider | Top Up | Subscribe | Min Spend | Website | Status | Updated |
 |----|----------|--------|-----------|-----------|---------|--------|---------|
-| P-001 | OpenAI | ✅ | ✅ | $5 | [openai.com](https://openai.com) | ✅ Active | 12 Jul 2026 |
-| P-002 | Anthropic | ✅ | ✅ | $5 | [anthropic.com](https://anthropic.com) | ✅ Active | 12 Jul 2026 |
-| P-003 | Google AI | ✅ | ✅ | - | [ai.google.dev](https://ai.google.dev) | ✅ Active | 12 Jul 2026 |
-| P-004 | Mistral | ✅ | ❌ | $1 | [mistral.ai](https://mistral.ai) | ✅ Active | 12 Jul 2026 |
-| P-005 | Groq | ✅ | ❌ | - | [groq.com](https://groq.com) | ✅ Active | 12 Jul 2026 |
-| P-006 | DeepSeek | ✅ | ❌ | $2 | [deepseek.com](https://deepseek.com) | ✅ Active | 12 Jul 2026 |
-| P-007 | OpenRouter | ✅ | ❌ | $5 | [openrouter.ai](https://openrouter.ai) | ✅ Active | 12 Jul 2026 |
+| P-001 | OpenAI | ✅ | ✅ | $5 (top up) | [openai.com](https://openai.com) | ✅ Active | 12 Jul 2026 |
+| P-002 | Anthropic | ✅ | ✅ | $5 (top up) | [anthropic.com](https://anthropic.com) | ✅ Active | 12 Jul 2026 |
+| P-003 | Google AI | ✅ | ✅ | $10 (top up) | [ai.google.dev](https://ai.google.dev) | ✅ Active | 12 Jul 2026 |
+| P-004 | Mistral | ✅ | ✅ | $0 (pay-as-you-go) | [mistral.ai](https://mistral.ai) | ✅ Active | 12 Jul 2026 |
+| P-005 | Groq | ✅ | ❌ | $0 (pay-as-you-go) | [groq.com](https://groq.com) | ✅ Active | 12 Jul 2026 |
+| P-006 | DeepSeek | ✅ | ❌ | $0 (pay-as-you-go) | [deepseek.com](https://deepseek.com) | ✅ Active | 12 Jul 2026 |
+| P-007 | OpenRouter | ✅ | ❌ | $0 (no minimum) | [openrouter.ai](https://openrouter.ai) | ✅ Active | 12 Jul 2026 |
+| P-008 | Requesty | ✅ | ❌ | $0 (pay-as-you-go) | [requesty.ai](https://www.requesty.ai/) | ✅ Active | 12 Jul 2026 |
+| P-009 | ZenMux | ✅ | ✅ | $20/mo (Builder) | [zenmux.ai](https://zenmux.ai/) | ✅ Active | 12 Jul 2026 |
+| P-010 | OpenCode | ✅ | ✅ | $10/mo ($5 promo) | [opencode.ai](https://opencode.ai/) | ✅ Active | 12 Jul 2026 |
+| P-011 | BytePlus | ✅ | ❌ | $0 (free credits) | [byteplus.com](https://www.byteplus.com/) | ✅ Active | 12 Jul 2026 |
+| P-012 | GitHub Copilot | ❌ | ✅ | $0 (Free plan) | [github.com/copilot](https://github.com/features/copilot) | ✅ Active | 12 Jul 2026 |
 
 ---
 
@@ -26,8 +31,10 @@
 |--------|------|
 | ✅ | Tersedia |
 | ❌ | Tidak tersedia |
-| - | Tidak ada / Gratis |
+| $0 (pay-as-you-go) | Tanpa minimum, bayar sesuai pemakaian |
+| $X (top up) | Minimum top up credit |
+| $X/mo | Harga subscribe termurah |
 
 ---
 
-*Total: 7 Providers*
+*Total: 12 Providers*
