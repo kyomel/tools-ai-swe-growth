@@ -19,7 +19,11 @@
 | CA-007 | Pi | [pi.dev](https://pi.dev/) | ✅ Active | 12 Jul 2026 |
 | CA-008 | OMP (Oh My Pi) | [omp.sh](https://omp.sh/) | ✅ Active | 12 Jul 2026 |
 | CA-009 | Amp | [ampcode.com](https://ampcode.com/) | ✅ Active | 12 Jul 2026 |
+| CA-010 | OpenCode | [opencode.ai](https://opencode.ai/) | ✅ Active | 18 Jul 2026 |
+| CA-011 | Factory | [factory.ai](https://factory.ai/) | ✅ Active | 18 Jul 2026 |
+| CA-012 | Goose | [goose-docs.ai](https://goose-docs.ai/) | ✅ Active | 18 Jul 2026 |
+| CA-013 | Command Code | [commandcode.ai](https://commandcode.ai/) | ✅ Active | 18 Jul 2026 |
 
 ---
 
-*Total: 9 Coding Agents*
+*Total: 13 Coding Agents*

@@ -22,6 +22,12 @@
 | P-010 | OpenCode | ✅ | ✅ | $10/mo ($5 promo) | [opencode.ai](https://opencode.ai/) | ✅ Active | 12 Jul 2026 |
 | P-011 | BytePlus | ✅ | ❌ | $0 (free credits) | [byteplus.com](https://www.byteplus.com/) | ✅ Active | 12 Jul 2026 |
 | P-012 | GitHub Copilot | ❌ | ✅ | $0 (Free plan) | [github.com/copilot](https://github.com/features/copilot) | ✅ Active | 12 Jul 2026 |
+| P-013 | Kilo | ✅ | ❌ | $0 (pay-as-you-go) | [kilo.ai](https://kilo.ai) | ✅ Active | 21 Jul 2026 |
+| P-014 | Amp | ✅ | ✅ | $20/mo (Megawatt) | [ampcode.com](https://ampcode.com) | ✅ Active | 21 Jul 2026 |
+| P-015 | ClinePass | ❌ | ✅ | $4.99/mo (promo) | [cline.bot/cline-pass](https://cline.bot/cline-pass) | ✅ Active | 21 Jul 2026 |
+| P-016 | Zyloo | ✅ | ❌ | $0 (pay-as-you-go) | [zyloo.io](https://zyloo.io/id) | ✅ Active | 21 Jul 2026 |
+| P-017 | CommandCode | ❌ | ✅ | $0 (Free tier) | [commandcode.ai](https://commandcode.ai) | ✅ Active | 21 Jul 2026 |
+| P-018 | xAI | ✅ | ❌ | $0 (pay-as-you-go) | [x.ai](https://x.ai) | ✅ Active | 21 Jul 2026 |
 
 ---
 
@@ -37,4 +43,4 @@
 
 ---
 
-*Total: 12 Providers*
+*Total: 18 Providers*

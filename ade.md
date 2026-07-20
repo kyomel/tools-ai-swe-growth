@@ -17,7 +17,10 @@
 | ADE-005 | Super Engineering | Agent Hub, GPU Rendered, Native | [super.engineering](https://super.engineering/) | ✅ Active | 12 Jul 2026 |
 | ADE-006 | VS Code | Copilot, Chat, Autocomplete, Agent | [code.visualstudio.com](https://code.visualstudio.com/) | ✅ Active | 12 Jul 2026 |
 | ADE-007 | Zed | AI Agent, Native Speed, Collab | [zed.dev](https://zed.dev/) | ✅ Active | 12 Jul 2026 |
+| ADE-008 | T3 Code | Multi-agent orchestrator, Auto PR, BYO keys | [t3.codes](https://t3.codes/) | ✅ Active | 12 Jul 2026 |
+| ADE-009 | Cmux | Agent-aware terminal, Multi-pane orchestration, Built-in browser | [cmux.com](https://cmux.com/) | ✅ Active | 12 Jul 2026 |
+| ADE-010 | Herdr | Agent multiplexer, Persistent SSH sessions, Real PTY panes | [herdr.dev](https://herdr.dev/) | ✅ Active | 12 Jul 2026 |
 
 ---
 
-*Total: 7 ADE*
+*Total: 10 ADE*
