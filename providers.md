@@ -28,6 +28,13 @@
 | P-016 | Zyloo | ✅ | ❌ | $0 (pay-as-you-go) | [zyloo.io](https://zyloo.io/id) | ✅ Active | 21 Jul 2026 |
 | P-017 | CommandCode | ❌ | ✅ | $0 (Free tier) | [commandcode.ai](https://commandcode.ai) | ✅ Active | 21 Jul 2026 |
 | P-018 | xAI | ✅ | ❌ | $0 (pay-as-you-go) | [x.ai](https://x.ai) | ✅ Active | 21 Jul 2026 |
+| P-019 | Augment Code | ✅ | ✅ | $100/mo (Business) | [augmentcode.com](https://www.augmentcode.com) | ✅ Active | 22 Jul 2026 |
+| P-020 | Kimi | ✅ | ❌ | $1 (top up) | [kimi.com](https://www.kimi.com) | ✅ Active | 22 Jul 2026 |
+| P-021 | Fireworks AI | ✅ | ❌ | $0 (pay-as-you-go) | [fireworks.ai](https://fireworks.ai) | ✅ Active | 22 Jul 2026 |
+| P-022 | AWS Bedrock | ✅ | ❌ | $0 (pay-as-you-go) | [aws.amazon.com/bedrock](https://aws.amazon.com/bedrock) | ✅ Active | 22 Jul 2026 |
+| P-023 | Ant-Ling | ✅ | ❌ | $0 (pay-as-you-go) | [ant-ling.com](https://www.ant-ling.com/en/) | ✅ Active | 22 Jul 2026 |
+| P-024 | Cerebras | ✅ | ✅ | $0 (Free tier) | [cerebras.ai](https://www.cerebras.ai) | ✅ Active | 22 Jul 2026 |
+| P-025 | Z.AI | ✅ | ✅ | $0 (free models) | [z.ai](https://chat.z.ai) | ✅ Active | 22 Jul 2026 |
 
 ---
 
@@ -43,4 +50,4 @@
 
 ---
 
-*Total: 18 Providers*
+*Total: 25 Providers*

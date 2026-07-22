@@ -11,7 +11,7 @@
 | ID | Tool | AI Features | Website | Status | Updated |
 |----|------|-------------|---------|--------|---------|
 | ADE-001 | Cursor | Chat, Generate, Autocomplete, Agent | [cursor.com](https://cursor.com) | ✅ Active | 12 Jul 2026 |
-| ADE-002 | Windsurf | Chat, Generate, Refactor, Agent | [windsurf.ai](https://windsurf.ai) | ✅ Active | 12 Jul 2026 |
+| ADE-002 | Devin Desktop | Agent IDE, Supercomplete, Multi-agent, Fast Context | [devin.ai/desktop](https://devin.ai/desktop/) | ✅ Active | 22 Jul 2026 |
 | ADE-003 | Replit | Chat, Deploy, Debug, Agent | [replit.com](https://replit.com) | ✅ Active | 12 Jul 2026 |
 | ADE-004 | Orca | Multi-agent, Diff Review, Preview | [onorca.dev](https://www.onorca.dev/) | ✅ Active | 12 Jul 2026 |
 | ADE-005 | Super Engineering | Agent Hub, GPU Rendered, Native | [super.engineering](https://super.engineering/) | ✅ Active | 12 Jul 2026 |
@@ -20,7 +20,10 @@
 | ADE-008 | T3 Code | Multi-agent orchestrator, Auto PR, BYO keys | [t3.codes](https://t3.codes/) | ✅ Active | 12 Jul 2026 |
 | ADE-009 | Cmux | Agent-aware terminal, Multi-pane orchestration, Built-in browser | [cmux.com](https://cmux.com/) | ✅ Active | 12 Jul 2026 |
 | ADE-010 | Herdr | Agent multiplexer, Persistent SSH sessions, Real PTY panes | [herdr.dev](https://herdr.dev/) | ✅ Active | 12 Jul 2026 |
+| ADE-011 | Qoder | Agentic Chat, Quest Window, RepoWiki, Browser Agent | [qoder.com](https://qoder.com) | ✅ Active | 22 Jul 2026 |
+| ADE-012 | Warp | AI Terminal, Agent Mode, Warp Drive, IDE-like Editing | [warp.dev](https://www.warp.dev) | ✅ Active | 22 Jul 2026 |
+| ADE-013 | Ghostex | Multi-agent CLI Hub, VS Code Editor, Chromium Browser, Cross-agent Orchestration | [ghostex.dev](https://ghostex.dev) | ✅ Active | 22 Jul 2026 |
 
 ---
 
-*Total: 10 ADE*
+*Total: 13 ADE*

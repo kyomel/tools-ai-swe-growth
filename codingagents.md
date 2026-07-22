@@ -23,7 +23,12 @@
 | CA-011 | Factory | [factory.ai](https://factory.ai/) | ✅ Active | 18 Jul 2026 |
 | CA-012 | Goose | [goose-docs.ai](https://goose-docs.ai/) | ✅ Active | 18 Jul 2026 |
 | CA-013 | Command Code | [commandcode.ai](https://commandcode.ai/) | ✅ Active | 18 Jul 2026 |
+| CA-014 | Supercode | [supercodeai.vercel.app](https://supercodeai.vercel.app) | ✅ Active | 22 Jul 2026 |
+| CA-015 | GitLawb | [gitlawb.com](https://gitlawb.com) | ✅ Active | 22 Jul 2026 |
+| CA-016 | Kimi Code | [kimi.com/code](https://www.kimi.com/code) | ✅ Active | 22 Jul 2026 |
+| CA-017 | ZCode | [zcode.z.ai](https://zcode.z.ai/en) | ✅ Active | 22 Jul 2026 |
+| CA-018 | Devin | [devin.ai](https://devin.ai) | ✅ Active | 22 Jul 2026 |
 
 ---
 
-*Total: 13 Coding Agents*
+*Total: 18 Coding Agents*
