@@ -23,7 +23,10 @@
 | ADE-011 | Qoder | Agentic Chat, Quest Window, RepoWiki, Browser Agent | [qoder.com](https://qoder.com) | ✅ Active | 22 Jul 2026 |
 | ADE-012 | Warp | AI Terminal, Agent Mode, Warp Drive, IDE-like Editing | [warp.dev](https://www.warp.dev) | ✅ Active | 22 Jul 2026 |
 | ADE-013 | Ghostex | Multi-agent CLI Hub, VS Code Editor, Chromium Browser, Cross-agent Orchestration | [ghostex.dev](https://ghostex.dev) | ✅ Active | 22 Jul 2026 |
+| ADE-014 | Atrium | Multi-agent workspace, Worktree isolation, Persistent sessions, CLI-controllable | [getatrium.dev](https://getatrium.dev/) | ✅ Active | 27 Jul 2026 |
+| ADE-015 | OpenADE | Plan→Revise→Execute, Multi-harness (Claude Code + Codex), Local-first, Open-source | [openade.ai](https://openade.ai/) | ✅ Active | 27 Jul 2026 |
+| ADE-016 | Kero | Native terminal workspace, Git panel, Sessions, Built on libghostty | [kero.sh](https://kero.sh/) | ✅ Active | 27 Jul 2026 |
 
 ---
 
-*Total: 13 ADE*
+*Total: 16 ADE*

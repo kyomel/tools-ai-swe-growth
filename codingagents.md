@@ -28,7 +28,10 @@
 | CA-016 | Kimi Code | [kimi.com/code](https://www.kimi.com/code) | ✅ Active | 22 Jul 2026 |
 | CA-017 | ZCode | [zcode.z.ai](https://zcode.z.ai/en) | ✅ Active | 22 Jul 2026 |
 | CA-018 | Devin | [devin.ai](https://devin.ai) | ✅ Active | 22 Jul 2026 |
+| CA-019 | Augment Code | [augmentcode.com](https://www.augmentcode.com/) | ✅ Active | 28 Jul 2026 |
+| CA-020 | Qoder | [qoder.com](https://qoder.com/) | ✅ Active | 28 Jul 2026 |
+| CA-021 | TRAE | [trae.ai](https://www.trae.ai/) | ✅ Active | 28 Jul 2026 |
 
 ---
 
-*Total: 18 Coding Agents*
+*Total: 21 Coding Agents*
