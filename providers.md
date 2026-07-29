@@ -40,6 +40,23 @@
 | P-028 | CrofAI | ✅ | ❌ | $0 (pay-as-you-go) | [crof.ai](https://crof.ai/home) | ✅ Active | 27 Jul 2026 |
 | P-029 | Cursor | ❌ | ✅ | $20/mo (Pro) | [cursor.com](https://cursor.com/) | ✅ Active | 27 Jul 2026 |
 | P-030 | Ollama | ❌ | ✅ | $0 (Free local) | [ollama.com](https://ollama.com/) | ✅ Active | 27 Jul 2026 |
+| P-031 | OfoxAI | ✅ | ❌ | $0 (pay-as-you-go) | [ofox.ai](https://ofox.ai) | ✅ Active | 28 Jul 2026 |
+| P-032 | LiteLLM | ❌ | ✅ | $0 (Free/OSS) | [litellm.ai](https://www.litellm.ai) | ✅ Active | 28 Jul 2026 |
+| P-033 | Cloudflare AI Gateway | ✅ | ❌ | $0 (pay-as-you-go) | [cloudflare.com](https://www.cloudflare.com/products/ai-gateway/) | ✅ Active | 28 Jul 2026 |
+| P-034 | NanoGPT | ✅ | ✅ | $0 (no minimum) | [nano-gpt.com](https://nano-gpt.com) | ✅ Active | 28 Jul 2026 |
+| P-035 | WaveSpeedAI | ✅ | ❌ | $0 (pay-as-you-go) | [wavespeed.ai](https://wavespeed.ai) | ✅ Active | 28 Jul 2026 |
+| P-036 | AIMLAPI | ✅ | ❌ | $0 (pay-as-you-go) | [aimlapi.com](https://aimlapi.com) | ✅ Active | 28 Jul 2026 |
+| P-037 | Vercel AI Gateway | ✅ | ❌ | $0 (pay-as-you-go) | [vercel.com](https://vercel.com/ai-gateway) | ✅ Active | 28 Jul 2026 |
+| P-038 | Admix | ❌ | ✅ | $10/mo | [admix.software](https://admix.software) | ✅ Active | 28 Jul 2026 |
+| P-039 | Inworld Router | ✅ | ❌ | $0 (pay-as-you-go) | [inworld.ai](https://inworld.ai/router) | ✅ Active | 28 Jul 2026 |
+| P-040 | LLM Gateway | ✅ | ❌ | $0 (BYOK free) | [llmgateway.io](https://llmgateway.io) | ✅ Active | 28 Jul 2026 |
+| P-041 | Merge Gateway | ✅ | ❌ | $0 (free credits) | [merge.dev](https://gateway.merge.dev) | ✅ Active | 28 Jul 2026 |
+| P-042 | Braintrust | ✅ | ✅ | $0 (Free tier) | [braintrust.dev](https://www.braintrust.dev) | ✅ Active | 28 Jul 2026 |
+| P-043 | Eden AI | ✅ | ✅ | $0 (Free tier) | [edenai.co](https://www.edenai.co) | ✅ Active | 28 Jul 2026 |
+| P-044 | Atlas Cloud | ✅ | ❌ | $0 (pay-as-you-go) | [atlascloud.ai](https://www.atlascloud.ai/id) | ✅ Active | 28 Jul 2026 |
+| P-045 | Komilion | ✅ | ❌ | $0 (pay-as-you-go) | [komilion.com](https://www.komilion.com) | ✅ Active | 28 Jul 2026 |
+| P-046 | Not Diamond | ✅ | ✅ | Enterprise | [notdiamond.ai](https://www.notdiamond.ai) | ✅ Active | 28 Jul 2026 |
+| P-047 | Concentrate | ✅ | ❌ | $0 (pay-as-you-go) | [concentrate.ai](https://concentrate.ai) | ✅ Active | 28 Jul 2026 |
 
 ---
 
@@ -55,4 +72,4 @@
 
 ---
 
-*Total: 30 Providers*
+*Total: 47 Providers*
