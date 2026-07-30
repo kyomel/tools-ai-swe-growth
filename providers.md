@@ -57,6 +57,9 @@
 | P-045 | Komilion | ✅ | ❌ | $0 (pay-as-you-go) | [komilion.com](https://www.komilion.com) | ✅ Active | 28 Jul 2026 |
 | P-046 | Not Diamond | ✅ | ✅ | Enterprise | [notdiamond.ai](https://www.notdiamond.ai) | ✅ Active | 28 Jul 2026 |
 | P-047 | Concentrate | ✅ | ❌ | $0 (pay-as-you-go) | [concentrate.ai](https://concentrate.ai) | ✅ Active | 28 Jul 2026 |
+| P-048 | 302.AI | ✅ | ❌ | $0 (pay-as-you-go) | [302.ai](https://302.ai/) | ✅ Active | 30 Jul 2026 |
+| P-049 | Abacus AI | ✅ | ✅ | $10/mo (Basic) | [abacus.ai](https://abacus.ai/) | ✅ Active | 30 Jul 2026 |
+| P-050 | AIHubMix | ✅ | ❌ | $0 (free tier) | [aihubmix.com](https://aihubmix.com/) | ✅ Active | 30 Jul 2026 |
 
 ---
 
@@ -72,4 +75,4 @@
 
 ---
 
-*Total: 47 Providers*
+*Total: 50 Providers*

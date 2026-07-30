@@ -31,7 +31,10 @@
 | CA-019 | Augment Code | [augmentcode.com](https://www.augmentcode.com/) | ✅ Active | 28 Jul 2026 |
 | CA-020 | Qoder | [qoder.com](https://qoder.com/) | ✅ Active | 28 Jul 2026 |
 | CA-021 | TRAE | [trae.ai](https://www.trae.ai/) | ✅ Active | 28 Jul 2026 |
+| CA-022 | Empryo | [empryo.com](https://empryo.com/) | ✅ Active | 30 Jul 2026 |
+| CA-023 | Slate | [randomlabs.ai](https://randomlabs.ai/) | ✅ Active | 30 Jul 2026 |
+| CA-024 | jcode | [jcode.sh](https://jcode.sh/) | ✅ Active | 30 Jul 2026 |
 
 ---
 
-*Total: 21 Coding Agents*
+*Total: 24 Coding Agents*

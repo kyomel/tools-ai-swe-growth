@@ -26,7 +26,8 @@
 | ADE-014 | Atrium | Multi-agent workspace, Worktree isolation, Persistent sessions, CLI-controllable | [getatrium.dev](https://getatrium.dev/) | ✅ Active | 27 Jul 2026 |
 | ADE-015 | OpenADE | Plan→Revise→Execute, Multi-harness (Claude Code + Codex), Local-first, Open-source | [openade.ai](https://openade.ai/) | ✅ Active | 27 Jul 2026 |
 | ADE-016 | Kero | Native terminal workspace, Git panel, Sessions, Built on libghostty | [kero.sh](https://kero.sh/) | ✅ Active | 27 Jul 2026 |
+| ADE-017 | CLIMonkey | Multi-agent workspace, Parallel agent terminals, AI Code Review, VPS/SSH | [climonkey.com](https://climonkey.com/) | ✅ Active | 30 Jul 2026 |
 
 ---
 
-*Total: 16 ADE*
+*Total: 17 ADE*
