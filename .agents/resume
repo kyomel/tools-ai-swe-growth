@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Orb resume for tools-ai-swe-growth
+# Fast, idempotent reconnect/repair. This Markdown-only repo has no
+# databases or services to restart, so there is nothing to repair.
+
+echo "=== [resume] tools-ai-swe-growth — nothing to repair ==="
