@@ -33,7 +33,8 @@
 | ADE-021 | Jean | Worktree isolation, Parallel agents, Magic Git Commands, GitHub & Linear integration, Open-source | [jean.build](https://jean.build/) | ✅ Active | 07 Aug 2026 |
 | ADE-022 | Trevize | Cloud workspaces, Live agent sessions, Automated loops, Preview environments | [trevize.dev](https://trevize.dev/) | ✅ Active | 07 Aug 2026 |
 | ADE-023 | Conductor | Parallel agents, Isolated workspaces, Review and merge | [conductor.build](https://www.conductor.build/) | ✅ Active | 07 Aug 2026 |
+| ADE-024 | bb | Self-customizable IDE, Plugin system, Local-first, Open-source | [getbb.app](https://getbb.app/) | ✅ Active | 07 Aug 2026 |
 
 ---
 
-*Total: 23 ADE*
+*Total: 24 ADE*

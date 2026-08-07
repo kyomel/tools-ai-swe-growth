@@ -9,8 +9,8 @@
 | ID | Kategori | Jumlah | Link |
 |----|----------|--------|------|
 | P | Providers | 50 | [providers.md](providers.md) |
-| CA | Coding Agents | 24 | [codingagents.md](codingagents.md) |
-| ADE | AI Dev Environment | 23 | [ade.md](ade.md) |
+| CA | Coding Agents | 27 | [codingagents.md](codingagents.md) |
+| ADE | AI Dev Environment | 24 | [ade.md](ade.md) |
 
 ---
 

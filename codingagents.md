@@ -34,7 +34,10 @@
 | CA-022 | Empryo | [empryo.com](https://empryo.com/) | ✅ Active | 30 Jul 2026 |
 | CA-023 | Slate | [randomlabs.ai](https://randomlabs.ai/) | ✅ Active | 30 Jul 2026 |
 | CA-024 | jcode | [jcode.sh](https://jcode.sh/) | ✅ Active | 30 Jul 2026 |
+| CA-025 | Prime Agent | [primeintellect.ai](https://github.com/PrimeIntellect-ai/prime-agent) | ✅ Active | 07 Aug 2026 |
+| CA-026 | CodeWhale | [codewhale.net](https://codewhale.net/id) | ✅ Active | 07 Aug 2026 |
+| CA-027 | Raft | [raft.build](https://raft.build/) | ✅ Active | 07 Aug 2026 |
 
 ---
 
-*Total: 24 Coding Agents*
+*Total: 27 Coding Agents*
