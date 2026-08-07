@@ -37,7 +37,9 @@
 | CA-025 | Prime Agent | [primeintellect.ai](https://github.com/PrimeIntellect-ai/prime-agent) | ✅ Active | 07 Aug 2026 |
 | CA-026 | CodeWhale | [codewhale.net](https://codewhale.net/id) | ✅ Active | 07 Aug 2026 |
 | CA-027 | Raft | [raft.build](https://raft.build/) | ✅ Active | 07 Aug 2026 |
+| CA-028 | Kombai | [kombai.com](https://kombai.com/) | ✅ Active | 07 Aug 2026 |
+| CA-029 | Stakpak | [stakpak.dev](https://stakpak.dev/) | ✅ Active | 07 Aug 2026 |
 
 ---
 
-*Total: 27 Coding Agents*
+*Total: 29 Coding Agents*
