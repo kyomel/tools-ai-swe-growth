@@ -27,7 +27,13 @@
 | ADE-015 | OpenADE | Plan→Revise→Execute, Multi-harness (Claude Code + Codex), Local-first, Open-source | [openade.ai](https://openade.ai/) | ✅ Active | 27 Jul 2026 |
 | ADE-016 | Kero | Native terminal workspace, Git panel, Sessions, Built on libghostty | [kero.sh](https://kero.sh/) | ✅ Active | 27 Jul 2026 |
 | ADE-017 | CLIMonkey | Multi-agent workspace, Parallel agent terminals, AI Code Review, VPS/SSH | [climonkey.com](https://climonkey.com/) | ✅ Active | 30 Jul 2026 |
+| ADE-018 | Paseo | Multi-agent orchestration, Mobile + Desktop + CLI, Self-hosted, Open-source | [paseo.sh](https://paseo.sh/) | ✅ Active | 07 Aug 2026 |
+| ADE-019 | OpenChamber | Agent Manager, Multi-model runs, Desktop + Browser + VS Code, Open-source | [openchamber.dev](https://openchamber.dev/) | ✅ Active | 07 Aug 2026 |
+| ADE-020 | Omnara | Durable agent hosting, Tool policies, Multi-model, Control plane | [omnara.com](https://www.omnara.com/) | ✅ Active | 07 Aug 2026 |
+| ADE-021 | Jean | Worktree isolation, Parallel agents, Magic Git Commands, GitHub & Linear integration, Open-source | [jean.build](https://jean.build/) | ✅ Active | 07 Aug 2026 |
+| ADE-022 | Trevize | Cloud workspaces, Live agent sessions, Automated loops, Preview environments | [trevize.dev](https://trevize.dev/) | ✅ Active | 07 Aug 2026 |
+| ADE-023 | Conductor | Parallel agents, Isolated workspaces, Review and merge | [conductor.build](https://www.conductor.build/) | ✅ Active | 07 Aug 2026 |
 
 ---
 
-*Total: 17 ADE*
+*Total: 23 ADE*
