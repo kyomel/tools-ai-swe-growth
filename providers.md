@@ -60,6 +60,7 @@
 | P-048 | 302.AI | ✅ | ❌ | $0 (pay-as-you-go) | [302.ai](https://302.ai/) | ✅ Active | 30 Jul 2026 |
 | P-049 | Abacus AI | ✅ | ✅ | $10/mo (Basic) | [abacus.ai](https://abacus.ai/) | ✅ Active | 30 Jul 2026 |
 | P-050 | AIHubMix | ✅ | ❌ | $0 (free tier) | [aihubmix.com](https://aihubmix.com/) | ✅ Active | 30 Jul 2026 |
+| P-051 | AK Router | ✅ | ❌ | $0 (pay-as-you-go) | [akrouter.com](https://akrouter.com/en) | ✅ Active | 07 Aug 2026 |
 
 ---
 
@@ -75,4 +76,4 @@
 
 ---
 
-*Total: 50 Providers*
+*Total: 51 Providers*

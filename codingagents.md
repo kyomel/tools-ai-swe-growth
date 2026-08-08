@@ -39,7 +39,10 @@
 | CA-027 | Raft | [raft.build](https://raft.build/) | ✅ Active | 07 Aug 2026 |
 | CA-028 | Kombai | [kombai.com](https://kombai.com/) | ✅ Active | 07 Aug 2026 |
 | CA-029 | Stakpak | [stakpak.dev](https://stakpak.dev/) | ✅ Active | 07 Aug 2026 |
+| CA-030 | Forge Code | [forgecode.dev](https://forgecode.dev/) | ✅ Active | 07 Aug 2026 |
+| CA-031 | Codelia | [github.com/kousw/codelia](https://github.com/kousw/codelia) | ✅ Active | 07 Aug 2026 |
+| CA-032 | Crush | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) | ✅ Active | 07 Aug 2026 |
 
 ---
 
-*Total: 29 Coding Agents*
+*Total: 32 Coding Agents*
