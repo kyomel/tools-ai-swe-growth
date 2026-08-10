@@ -44,7 +44,8 @@
 | CA-032 | Crush | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) | ✅ Active | 07 Aug 2026 |
 | CA-033 | KlaatAI | [klaatai.com](https://klaatai.com/) | ✅ Active | 07 Aug 2026 |
 | CA-034 | OpenHack | [openhack.com](https://openhack.com/) | ✅ Active | 07 Aug 2026 |
+| CA-035 | Ante | [antigma.ai](https://antigma.ai/) | ✅ Active | 10 Aug 2026 |
 
 ---
 
-*Total: 34 Coding Agents*
+*Total: 35 Coding Agents*
