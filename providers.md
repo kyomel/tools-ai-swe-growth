@@ -67,6 +67,11 @@
 | P-055 | n1n AI | ✅ | ❌ | $0 (pay-as-you-go) | [n1n.ai](https://n1n.ai/) | ✅ Active | 10 Aug 2026 |
 | P-056 | SiliconFlow | ✅ | ❌ | $0 (pay-as-you-go) | [siliconflow.com](https://www.siliconflow.com/) | ✅ Active | 10 Aug 2026 |
 | P-057 | DMXAPI | ✅ | ❌ | $0 (pay-as-you-go) | [dmxapi.com](https://www.dmxapi.com/) | ✅ Active | 10 Aug 2026 |
+| P-058 | Hypereal AI | ✅ | ❌ | $0 (pay-as-you-go) | [hypereal.cloud](https://hypereal.cloud/id) | ✅ Active | 10 Aug 2026 |
+| P-059 | APIMaster | ✅ | ❌ | $0 (pay-as-you-go) | [apimaster.ai](https://apimaster.ai/) | ✅ Active | 10 Aug 2026 |
+| P-060 | TokenMix | ✅ | ❌ | $1 (top up) | [tokenmix.ai](https://tokenmix.ai/) | ✅ Active | 10 Aug 2026 |
+| P-061 | KissAPI | ✅ | ❌ | $5 (top up) | [kissapi.ai](https://kissapi.ai/) | ✅ Active | 10 Aug 2026 |
+| P-062 | AnyAPI | ✅ | ❌ | $0 (free tier) | [anyapi.ai](https://anyapi.ai/) | ✅ Active | 10 Aug 2026 |
 
 ---
 
@@ -82,4 +87,4 @@
 
 ---
 
-*Total: 57 Providers*
+*Total: 62 Providers*
