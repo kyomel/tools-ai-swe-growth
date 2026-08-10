@@ -64,6 +64,9 @@
 | P-052 | Nebius Token Factory | ✅ | ❌ | $0 (pay-as-you-go) | [tokenfactory.nebius.com](https://tokenfactory.nebius.com/) | ✅ Active | 07 Aug 2026 |
 | P-053 | PCoreAI | ✅ | ❌ | $0 (pay-as-you-go) | [pcore.ai](https://pcore.ai/) | ✅ Active | 10 Aug 2026 |
 | P-054 | AllToken | ✅ | ❌ | $0 (pay-as-you-go) | [alltoken.ai](https://alltoken.ai/) | ✅ Active | 10 Aug 2026 |
+| P-055 | n1n AI | ✅ | ❌ | $0 (pay-as-you-go) | [n1n.ai](https://n1n.ai/) | ✅ Active | 10 Aug 2026 |
+| P-056 | SiliconFlow | ✅ | ❌ | $0 (pay-as-you-go) | [siliconflow.com](https://www.siliconflow.com/) | ✅ Active | 10 Aug 2026 |
+| P-057 | DMXAPI | ✅ | ❌ | $0 (pay-as-you-go) | [dmxapi.com](https://www.dmxapi.com/) | ✅ Active | 10 Aug 2026 |
 
 ---
 
@@ -79,4 +82,4 @@
 
 ---
 
-*Total: 54 Providers*
+*Total: 57 Providers*
