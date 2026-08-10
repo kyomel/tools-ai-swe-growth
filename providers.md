@@ -76,6 +76,14 @@
 | P-064 | Qwen Cloud | ✅ | ✅ | $6/mo (Token Plan) | [qwencloud.com](https://www.qwencloud.com/) | ✅ Active | 10 Aug 2026 |
 | P-065 | Inference.net | ✅ | ❌ | $0 (pay-as-you-go) | [inference.net](https://inference.net/) | ✅ Active | 10 Aug 2026 |
 | P-066 | Juan Router | ✅ | ✅ | $8/day (Marathon Light) | [juan.web.id](https://router.juan.web.id/) | ✅ Active | 10 Aug 2026 |
+| P-067 | 1inference | ✅ | ❌ | $0 (pay-as-you-go) | [1inference.com](https://www.1inference.com/) | ✅ Active | 10 Aug 2026 |
+| P-068 | Nexotao | ✅ | ✅ | $10/mo (Starter) | [nexotao.com](https://www.nexotao.com/) | ✅ Active | 10 Aug 2026 |
+| P-069 | ClauDeal | ✅ | ❌ | $0 (no minimum) | [claudeal.net](https://claudeal.net/) | ✅ Active | 10 Aug 2026 |
+| P-070 | Nara Router | ✅ | ✅ | $0 (free tier) | [bynara.id](https://router.bynara.id/) | ✅ Active | 10 Aug 2026 |
+| P-071 | 9inference | ✅ | ❌ | $0 (pay-as-you-go) | [9inference.cloud](https://9inference.cloud/id) | ✅ Active | 10 Aug 2026 |
+| P-072 | Neosantara | ✅ | ❌ | $0 (free credits) | [neosantara.xyz](https://www.neosantara.xyz/en) | ✅ Active | 10 Aug 2026 |
+| P-073 | Smart API | ✅ | ❌ | $0 (pay-as-you-go) | [ai.ipeenk.com](https://ai.ipeenk.com/) | ✅ Active | 10 Aug 2026 |
+| P-074 | Flaz Cloud | ✅ | ❌ | $0 (pay-as-you-go) | [flaz.id](https://flaz.id/en/ai-services) | ✅ Active | 10 Aug 2026 |
 
 ---
 
@@ -91,4 +99,4 @@
 
 ---
 
-*Total: 66 Providers*
+*Total: 74 Providers*
