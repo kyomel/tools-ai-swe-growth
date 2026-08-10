@@ -62,6 +62,8 @@
 | P-050 | AIHubMix | ✅ | ❌ | $0 (free tier) | [aihubmix.com](https://aihubmix.com/) | ✅ Active | 30 Jul 2026 |
 | P-051 | AK Router | ✅ | ❌ | $0 (pay-as-you-go) | [akrouter.com](https://akrouter.com/en) | ✅ Active | 07 Aug 2026 |
 | P-052 | Nebius Token Factory | ✅ | ❌ | $0 (pay-as-you-go) | [tokenfactory.nebius.com](https://tokenfactory.nebius.com/) | ✅ Active | 07 Aug 2026 |
+| P-053 | PCoreAI | ✅ | ❌ | $0 (pay-as-you-go) | [pcore.ai](https://pcore.ai/) | ✅ Active | 10 Aug 2026 |
+| P-054 | AllToken | ✅ | ❌ | $0 (pay-as-you-go) | [alltoken.ai](https://alltoken.ai/) | ✅ Active | 10 Aug 2026 |
 
 ---
 
@@ -77,4 +79,4 @@
 
 ---
 
-*Total: 52 Providers*
+*Total: 54 Providers*
