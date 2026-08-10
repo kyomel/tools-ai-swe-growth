@@ -42,7 +42,9 @@
 | CA-030 | Forge Code | [forgecode.dev](https://forgecode.dev/) | ✅ Active | 07 Aug 2026 |
 | CA-031 | Codelia | [github.com/kousw/codelia](https://github.com/kousw/codelia) | ✅ Active | 07 Aug 2026 |
 | CA-032 | Crush | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) | ✅ Active | 07 Aug 2026 |
+| CA-033 | KlaatAI | [klaatai.com](https://klaatai.com/) | ✅ Active | 07 Aug 2026 |
+| CA-034 | OpenHack | [openhack.com](https://openhack.com/) | ✅ Active | 07 Aug 2026 |
 
 ---
 
-*Total: 32 Coding Agents*
+*Total: 34 Coding Agents*

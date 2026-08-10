@@ -34,7 +34,10 @@
 | ADE-022 | Trevize | Cloud workspaces, Live agent sessions, Automated loops, Preview environments | [trevize.dev](https://trevize.dev/) | ✅ Active | 07 Aug 2026 |
 | ADE-023 | Conductor | Parallel agents, Isolated workspaces, Review and merge | [conductor.build](https://www.conductor.build/) | ✅ Active | 07 Aug 2026 |
 | ADE-024 | bb | Self-customizable IDE, Plugin system, Local-first, Open-source | [getbb.app](https://getbb.app/) | ✅ Active | 07 Aug 2026 |
+| ADE-025 | KlaatAI | Multi-agent workspace, Code knowledge graph, Routing brain, CLI + VS Code + Desktop | [klaatai.com](https://klaatai.com/) | ✅ Active | 07 Aug 2026 |
+| ADE-026 | Mirasim | Agent IDE, Multi-session, VS Code-like editor, TUI + GUI, Simulated users | [mirasim.ai](https://mirasim.ai/) | ✅ Active | 07 Aug 2026 |
+| ADE-027 | fut | Terminal workspace, Sessions, Workspaces, Tabs, Panes, Agent orchestration | [fut.sh](https://fut.sh/) | ✅ Active | 07 Aug 2026 |
 
 ---
 
-*Total: 24 ADE*
+*Total: 27 ADE*

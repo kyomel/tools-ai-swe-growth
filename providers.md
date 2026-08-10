@@ -61,6 +61,7 @@
 | P-049 | Abacus AI | ✅ | ✅ | $10/mo (Basic) | [abacus.ai](https://abacus.ai/) | ✅ Active | 30 Jul 2026 |
 | P-050 | AIHubMix | ✅ | ❌ | $0 (free tier) | [aihubmix.com](https://aihubmix.com/) | ✅ Active | 30 Jul 2026 |
 | P-051 | AK Router | ✅ | ❌ | $0 (pay-as-you-go) | [akrouter.com](https://akrouter.com/en) | ✅ Active | 07 Aug 2026 |
+| P-052 | Nebius Token Factory | ✅ | ❌ | $0 (pay-as-you-go) | [tokenfactory.nebius.com](https://tokenfactory.nebius.com/) | ✅ Active | 07 Aug 2026 |
 
 ---
 
@@ -76,4 +77,4 @@
 
 ---
 
-*Total: 51 Providers*
+*Total: 52 Providers*
