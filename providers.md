@@ -75,6 +75,7 @@
 | P-063 | TokenRouter | ✅ | ❌ | $0 (pay-as-you-go) | [tokenrouter.com](https://www.tokenrouter.com/) | ✅ Active | 10 Aug 2026 |
 | P-064 | Qwen Cloud | ✅ | ✅ | $6/mo (Token Plan) | [qwencloud.com](https://www.qwencloud.com/) | ✅ Active | 10 Aug 2026 |
 | P-065 | Inference.net | ✅ | ❌ | $0 (pay-as-you-go) | [inference.net](https://inference.net/) | ✅ Active | 10 Aug 2026 |
+| P-066 | Juan Router | ✅ | ✅ | $8/day (Marathon Light) | [juan.web.id](https://router.juan.web.id/) | ✅ Active | 10 Aug 2026 |
 
 ---
 
@@ -90,4 +91,4 @@
 
 ---
 
-*Total: 65 Providers*
+*Total: 66 Providers*
