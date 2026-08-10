@@ -72,6 +72,9 @@
 | P-060 | TokenMix | ✅ | ❌ | $1 (top up) | [tokenmix.ai](https://tokenmix.ai/) | ✅ Active | 10 Aug 2026 |
 | P-061 | KissAPI | ✅ | ❌ | $5 (top up) | [kissapi.ai](https://kissapi.ai/) | ✅ Active | 10 Aug 2026 |
 | P-062 | AnyAPI | ✅ | ❌ | $0 (free tier) | [anyapi.ai](https://anyapi.ai/) | ✅ Active | 10 Aug 2026 |
+| P-063 | TokenRouter | ✅ | ❌ | $0 (pay-as-you-go) | [tokenrouter.com](https://www.tokenrouter.com/) | ✅ Active | 10 Aug 2026 |
+| P-064 | Qwen Cloud | ✅ | ✅ | $6/mo (Token Plan) | [qwencloud.com](https://www.qwencloud.com/) | ✅ Active | 10 Aug 2026 |
+| P-065 | Inference.net | ✅ | ❌ | $0 (pay-as-you-go) | [inference.net](https://inference.net/) | ✅ Active | 10 Aug 2026 |
 
 ---
 
@@ -87,4 +90,4 @@
 
 ---
 
-*Total: 62 Providers*
+*Total: 65 Providers*
