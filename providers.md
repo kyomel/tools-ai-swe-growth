@@ -88,6 +88,7 @@
 | P-076 | MixRoute | ✅ | ❌ | $0 (pay-as-you-go) | [mixroute.ai](https://mixroute.ai/) | ✅ Active | 10 Aug 2026 |
 | P-077 | AirForce API | ✅ | ✅ | $0 (free tier) | [api.airforce](https://api.airforce/id/) | ✅ Active | 10 Aug 2026 |
 | P-078 | AntSeed | ✅ | ❌ | $0 (pay-as-you-go) | [antseed.com](https://antseed.com/) | ✅ Active | 10 Aug 2026 |
+| P-079 | Novita AI | ✅ | ❌ | $0 (pay-as-you-go) | [novita.ai](https://novita.ai/) | ✅ Active | 11 Aug 2026 |
 
 ---
 
@@ -103,4 +104,4 @@
 
 ---
 
-*Total: 78 Providers*
+*Total: 79 Providers*
