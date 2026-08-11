@@ -87,6 +87,7 @@
 | P-075 | Featherless | ✅ | ✅ | $25/mo (Chat) | [featherless.ai](https://featherless.ai/) | ✅ Active | 10 Aug 2026 |
 | P-076 | MixRoute | ✅ | ❌ | $0 (pay-as-you-go) | [mixroute.ai](https://mixroute.ai/) | ✅ Active | 10 Aug 2026 |
 | P-077 | AirForce API | ✅ | ✅ | $0 (free tier) | [api.airforce](https://api.airforce/id/) | ✅ Active | 10 Aug 2026 |
+| P-078 | AntSeed | ✅ | ❌ | $0 (pay-as-you-go) | [antseed.com](https://antseed.com/) | ✅ Active | 10 Aug 2026 |
 
 ---
 
@@ -102,4 +103,4 @@
 
 ---
 
-*Total: 77 Providers*
+*Total: 78 Providers*
