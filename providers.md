@@ -90,6 +90,7 @@
 | P-078 | AntSeed | ✅ | ❌ | $0 (pay-as-you-go) | [antseed.com](https://antseed.com/) | ✅ Active | 10 Aug 2026 |
 | P-079 | Novita AI | ✅ | ❌ | $0 (pay-as-you-go) | [novita.ai](https://novita.ai/) | ✅ Active | 11 Aug 2026 |
 | P-080 | AstraFlow | ✅ | ❌ | $0 (pay-as-you-go) | [astraflow.scloudsg.com](https://astraflow.scloudsg.com/en-us) | ✅ Active | 11 Aug 2026 |
+| P-081 | ModelFlare | ✅ | ❌ | $0 (pay-as-you-go) | [modelflare.dev](https://modelflare.dev/) | ✅ Active | 11 Aug 2026 |
 
 ---
 
@@ -105,4 +106,4 @@
 
 ---
 
-*Total: 80 Providers*
+*Total: 81 Providers*
