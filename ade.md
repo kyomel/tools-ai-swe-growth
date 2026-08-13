@@ -39,7 +39,8 @@
 | ADE-027 | fut | Terminal workspace, Sessions, Workspaces, Tabs, Panes, Agent orchestration | [fut.sh](https://fut.sh/) | ✅ Active | 07 Aug 2026 |
 | ADE-028 | Xirp | Agentic IDE, Institutional memory, Service context, Multi-model (Claude/Gemini/Codex) | [xirp.spotify.com](https://xirp.spotify.com/) | ✅ Active | 10 Aug 2026 |
 | ADE-029 | CodeRide | All-in-one IDE, Built-in AI agent, Monaco editor, Git, Terminal, Zero plugins | [coderide.dev](https://coderide.dev/) | ✅ Active | 10 Aug 2026 |
+| ADE-030 | Bohay | Mission control for agents, Multi-agent orchestration, Worktree isolation, Session resume, Remote attach | [bohay.dev](https://bohay.dev/) | ✅ Active | 12 Aug 2026 |
 
 ---
 
-*Total: 29 ADE*
+*Total: 30 ADE*
