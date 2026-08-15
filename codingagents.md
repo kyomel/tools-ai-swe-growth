@@ -47,7 +47,8 @@
 | CA-035 | Ante | [antigma.ai](https://antigma.ai/) | ✅ Active | 10 Aug 2026 |
 | CA-036 | Ori Harness | [openrouter.ai/ori/harness](https://openrouter.ai/ori/harness) | ✅ Active | 12 Aug 2026 |
 | CA-037 | Aster | [withaster.dev](https://withaster.dev/) | ✅ Active | 13 Aug 2026 |
+| CA-038 | CodeGraff | [github.com/justrach/codegraff](https://github.com/justrach/codegraff) | ✅ Active | 15 Aug 2026 |
 
 ---
 
-*Total: 37 Coding Agents*
+*Total: 38 Coding Agents*
