@@ -46,7 +46,8 @@
 | CA-034 | OpenHack | [openhack.com](https://openhack.com/) | ✅ Active | 07 Aug 2026 |
 | CA-035 | Ante | [antigma.ai](https://antigma.ai/) | ✅ Active | 10 Aug 2026 |
 | CA-036 | Ori Harness | [openrouter.ai/ori/harness](https://openrouter.ai/ori/harness) | ✅ Active | 12 Aug 2026 |
+| CA-037 | Aster | [withaster.dev](https://withaster.dev/) | ✅ Active | 13 Aug 2026 |
 
 ---
 
-*Total: 36 Coding Agents*
+*Total: 37 Coding Agents*

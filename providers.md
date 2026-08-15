@@ -92,6 +92,8 @@
 | P-080 | AstraFlow | ✅ | ❌ | $0 (pay-as-you-go) | [astraflow.scloudsg.com](https://astraflow.scloudsg.com/en-us) | ✅ Active | 11 Aug 2026 |
 | P-081 | ModelFlare | ✅ | ❌ | $0 (pay-as-you-go) | [modelflare.dev](https://modelflare.dev/) | ✅ Active | 11 Aug 2026 |
 | P-082 | Modeloc | ✅ | ❌ | $0 (pay-as-you-go) | [modeloc.com](https://modeloc.com/) | ✅ Active | 12 Aug 2026 |
+| P-083 | Hyper | ✅ | ✅ | $20/mo (Subscription) | [hyper.charm.land](https://hyper.charm.land/) | ✅ Active | 13 Aug 2026 |
+| P-084 | Blackbox AI | ✅ | ❌ | $0 (pay-as-you-go) | [blackbox.ai](https://www.blackbox.ai/) | ✅ Active | 13 Aug 2026 |
 
 ---
 
@@ -107,4 +109,4 @@
 
 ---
 
-*Total: 82 Providers*
+*Total: 84 Providers*
