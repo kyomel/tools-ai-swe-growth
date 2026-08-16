@@ -94,6 +94,7 @@
 | P-082 | Modeloc | ✅ | ❌ | $0 (pay-as-you-go) | [modeloc.com](https://modeloc.com/) | ✅ Active | 12 Aug 2026 |
 | P-083 | Hyper | ✅ | ✅ | $20/mo (Subscription) | [hyper.charm.land](https://hyper.charm.land/) | ✅ Active | 13 Aug 2026 |
 | P-084 | Blackbox AI | ✅ | ❌ | $0 (pay-as-you-go) | [blackbox.ai](https://www.blackbox.ai/) | ✅ Active | 13 Aug 2026 |
+| P-085 | FuseCode | ✅ | ✅ | $X (top up) | [fusecode.ai](https://www.fusecode.ai/home) | ✅ Active | 16 Aug 2026 |
 
 ---
 
@@ -109,4 +110,4 @@
 
 ---
 
-*Total: 84 Providers*
+*Total: 85 Providers*

@@ -48,7 +48,9 @@
 | CA-036 | Ori Harness | [openrouter.ai/ori/harness](https://openrouter.ai/ori/harness) | ✅ Active | 12 Aug 2026 |
 | CA-037 | Aster | [withaster.dev](https://withaster.dev/) | ✅ Active | 13 Aug 2026 |
 | CA-038 | CodeGraff | [github.com/justrach/codegraff](https://github.com/justrach/codegraff) | ✅ Active | 15 Aug 2026 |
+| CA-039 | DeepSeek Harness | [deepseek.com/harness](https://deepseek.com/harness/en/) | ✅ Active | 16 Aug 2026 |
+| CA-040 | Reasonix | [reasonix.io](https://reasonix.io/) | ✅ Active | 16 Aug 2026 |
 
 ---
 
-*Total: 38 Coding Agents*
+*Total: 40 Coding Agents*

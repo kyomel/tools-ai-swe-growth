@@ -41,7 +41,9 @@
 | ADE-029 | CodeRide | All-in-one IDE, Built-in AI agent, Monaco editor, Git, Terminal, Zero plugins | [coderide.dev](https://coderide.dev/) | ✅ Active | 10 Aug 2026 |
 | ADE-030 | Bohay | Mission control for agents, Multi-agent orchestration, Worktree isolation, Session resume, Remote attach | [bohay.dev](https://bohay.dev/) | ✅ Active | 12 Aug 2026 |
 | ADE-031 | Zeron | Agent control, Multi-device sync, Local-first, Daemon-based, Desktop app | [zeron.sh](https://zeron.sh/) | ✅ Active | 13 Aug 2026 |
+| ADE-032 | Kaku | AI coding terminal, Built-in AI assistant, Error recovery, Natural language to command, AI tools config | [github.com/tw93/kaku](https://github.com/tw93/kaku) | ✅ Active | 16 Aug 2026 |
+| ADE-033 | Letta | Self-improving AI agent, Memory models, Experiential agents, Letta Code CLI | [letta.com](https://www.letta.com/) | ✅ Active | 16 Aug 2026 |
 
 ---
 
-*Total: 31 ADE*
+*Total: 33 ADE*
