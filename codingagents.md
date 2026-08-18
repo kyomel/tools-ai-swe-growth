@@ -50,7 +50,11 @@
 | CA-038 | CodeGraff | [github.com/justrach/codegraff](https://github.com/justrach/codegraff) | ✅ Active | 15 Aug 2026 |
 | CA-039 | DeepSeek Harness | [deepseek.com/harness](https://deepseek.com/harness/en/) | ✅ Active | 16 Aug 2026 |
 | CA-040 | Reasonix | [reasonix.io](https://reasonix.io/) | ✅ Active | 16 Aug 2026 |
+| CA-041 | Zorai | [zorai.app](https://zorai.app/) | ✅ Active | 18 Aug 2026 |
+| CA-042 | Agnes Code | [agnes-ai.com](https://agnes-ai.com/) | ✅ Active | 18 Aug 2026 |
+| CA-043 | MiniMax | [agent.minimax.io](https://agent.minimax.io/) | ✅ Active | 18 Aug 2026 |
+| CA-044 | Atomic | [bastani.ai](https://bastani.ai/) | ✅ Active | 18 Aug 2026 |
 
 ---
 
-*Total: 40 Coding Agents*
+*Total: 44 Coding Agents*

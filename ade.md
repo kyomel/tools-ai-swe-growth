@@ -43,7 +43,8 @@
 | ADE-031 | Zeron | Agent control, Multi-device sync, Local-first, Daemon-based, Desktop app | [zeron.sh](https://zeron.sh/) | ✅ Active | 13 Aug 2026 |
 | ADE-032 | Kaku | AI coding terminal, Built-in AI assistant, Error recovery, Natural language to command, AI tools config | [github.com/tw93/kaku](https://github.com/tw93/kaku) | ✅ Active | 16 Aug 2026 |
 | ADE-033 | Letta | Self-improving AI agent, Memory models, Experiential agents, Letta Code CLI | [letta.com](https://www.letta.com/) | ✅ Active | 16 Aug 2026 |
+| ADE-034 | dmux | Parallel agents with tmux, Git worktree isolation, Multi-agent orchestration, Merge flow, Multi-project support | [dmux.ai](https://dmux.ai/) | ✅ Active | 18 Aug 2026 |
 
 ---
 
-*Total: 33 ADE*
+*Total: 34 ADE*

@@ -95,6 +95,15 @@
 | P-083 | Hyper | ✅ | ✅ | $20/mo (Subscription) | [hyper.charm.land](https://hyper.charm.land/) | ✅ Active | 13 Aug 2026 |
 | P-084 | Blackbox AI | ✅ | ❌ | $0 (pay-as-you-go) | [blackbox.ai](https://www.blackbox.ai/) | ✅ Active | 13 Aug 2026 |
 | P-085 | FuseCode | ✅ | ✅ | $X (top up) | [fusecode.ai](https://www.fusecode.ai/home) | ✅ Active | 16 Aug 2026 |
+| P-086 | Agnes AI | ✅ | ✅ | $0 (free tier) | [agnes-ai.com](https://agnes-ai.com/) | ✅ Active | 18 Aug 2026 |
+| P-087 | RunInfra | ✅ | ❌ | $0 (pay-as-you-go) | [runinfra.ai](https://runinfra.ai/) | ✅ Active | 18 Aug 2026 |
+| P-088 | B.AI | ✅ | ❌ | $0 (pay-as-you-go) | [b.ai](https://b.ai/) | ✅ Active | 18 Aug 2026 |
+| P-089 | Straitly | ✅ | ❌ | $0 (pay-as-you-go) | [straitly.ai](https://straitly.ai/) | ✅ Active | 18 Aug 2026 |
+| P-090 | SenseNova | ✅ | ❌ | $0 (pay-as-you-go) | [sensenova.cn](https://www.sensenova.cn/) | ✅ Active | 18 Aug 2026 |
+| P-091 | Morph | ✅ | ❌ | $0 (pay-as-you-go) | [morphllm.com](https://www.morphllm.com/) | ✅ Active | 18 Aug 2026 |
+| P-092 | Helmcode | ❌ | ✅ | €399/mo (Subscription) | [helmcode.com](https://helmcode.com/) | ✅ Active | 18 Aug 2026 |
+| P-093 | Flatkey | ✅ | ❌ | $0 (pay-as-you-go) | [flatkey.ai](https://flatkey.ai/) | ✅ Active | 18 Aug 2026 |
+| P-094 | SuperAI API | ✅ | ❌ | $0 (pay-as-you-go) | [superaiapi.com](https://superaiapi.com/en) | ✅ Active | 18 Aug 2026 |
 
 ---
 
@@ -110,4 +119,4 @@
 
 ---
 
-*Total: 85 Providers*
+*Total: 94 Providers*
