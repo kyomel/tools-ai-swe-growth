@@ -44,7 +44,10 @@
 | ADE-032 | Kaku | AI coding terminal, Built-in AI assistant, Error recovery, Natural language to command, AI tools config | [github.com/tw93/kaku](https://github.com/tw93/kaku) | ✅ Active | 16 Aug 2026 |
 | ADE-033 | Letta | Self-improving AI agent, Memory models, Experiential agents, Letta Code CLI | [letta.com](https://www.letta.com/) | ✅ Active | 16 Aug 2026 |
 | ADE-034 | dmux | Parallel agents with tmux, Git worktree isolation, Multi-agent orchestration, Merge flow, Multi-project support | [dmux.ai](https://dmux.ai/) | ✅ Active | 18 Aug 2026 |
+| ADE-035 | Tempo | Team IDE, Design with code, Spec & Design Agent, Bug Fixer Agent, Feature Builder Agent, PR workflow | [tempo.new](https://www.tempo.new/) | ✅ Active | 21 Aug 2026 |
+| ADE-036 | Waku | Native app for coding agents, Multi-agent timeline, Session management, Transcripts, Local-first, Keyboard-first | [waku.sh](https://waku.sh/) | ✅ Active | 21 Aug 2026 |
+| ADE-037 | OpenDesign | Agentic vibe design workspace, BYOK, 17 agent adapters, DESIGN.md systems, Local-first, Open source | [open-design.ai](https://open-design.ai/) | ✅ Active | 21 Aug 2026 |
 
 ---
 
-*Total: 34 ADE*
+*Total: 37 ADE*

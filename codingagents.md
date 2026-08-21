@@ -54,7 +54,8 @@
 | CA-042 | Agnes Code | [agnes-ai.com](https://agnes-ai.com/) | ✅ Active | 18 Aug 2026 |
 | CA-043 | MiniMax | [agent.minimax.io](https://agent.minimax.io/) | ✅ Active | 18 Aug 2026 |
 | CA-044 | Atomic | [bastani.ai](https://bastani.ai/) | ✅ Active | 18 Aug 2026 |
+| CA-045 | fx | [fx.sh](https://fx.sh/) | ✅ Active | 21 Aug 2026 |
 
 ---
 
-*Total: 44 Coding Agents*
+*Total: 45 Coding Agents*

@@ -104,6 +104,9 @@
 | P-092 | Helmcode | ❌ | ✅ | €399/mo (Subscription) | [helmcode.com](https://helmcode.com/) | ✅ Active | 18 Aug 2026 |
 | P-093 | Flatkey | ✅ | ❌ | $0 (pay-as-you-go) | [flatkey.ai](https://flatkey.ai/) | ✅ Active | 18 Aug 2026 |
 | P-094 | SuperAI API | ✅ | ❌ | $0 (pay-as-you-go) | [superaiapi.com](https://superaiapi.com/en) | ✅ Active | 18 Aug 2026 |
+| P-095 | NevaGate | ✅ | ❌ | $0 (pay-as-you-go) | [nevagate.anext.dev](https://nevagate.anext.dev/) | ✅ Active | 21 Aug 2026 |
+| P-096 | OpenModel | ✅ | ❌ | $0 (pay-as-you-go) | [openmodel.ai](https://www.openmodel.ai/) | ✅ Active | 21 Aug 2026 |
+| P-097 | TeamoRouter | ✅ | ❌ | $0 (pay-as-you-go) | [teamorouter.com](https://teamorouter.com/) | ✅ Active | 21 Aug 2026 |
 
 ---
 
@@ -119,4 +122,4 @@
 
 ---
 
-*Total: 94 Providers*
+*Total: 97 Providers*
