@@ -107,6 +107,8 @@
 | P-095 | NevaGate | ✅ | ❌ | $0 (pay-as-you-go) | [nevagate.anext.dev](https://nevagate.anext.dev/) | ✅ Active | 21 Aug 2026 |
 | P-096 | OpenModel | ✅ | ❌ | $0 (pay-as-you-go) | [openmodel.ai](https://www.openmodel.ai/) | ✅ Active | 21 Aug 2026 |
 | P-097 | TeamoRouter | ✅ | ❌ | $0 (pay-as-you-go) | [teamorouter.com](https://teamorouter.com/) | ✅ Active | 21 Aug 2026 |
+| P-098 | Ramp Router | ✅ | ❌ | $0 (free through 2026) | [router.com](https://router.com/) | ✅ Active | 21 Aug 2026 |
+| P-099 | Lunos | ✅ | ❌ | $0 (pay-as-you-go) | [lunosrouter.com](https://lunosrouter.com/) | ✅ Active | 21 Aug 2026 |
 
 ---
 
@@ -122,4 +124,4 @@
 
 ---
 
-*Total: 97 Providers*
+*Total: 99 Providers*
