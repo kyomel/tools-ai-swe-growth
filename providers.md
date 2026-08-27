@@ -109,6 +109,7 @@
 | P-097 | TeamoRouter | ✅ | ❌ | $0 (pay-as-you-go) | [teamorouter.com](https://teamorouter.com/) | ✅ Active | 21 Aug 2026 |
 | P-098 | Ramp Router | ✅ | ❌ | $0 (free through 2026) | [router.com](https://router.com/) | ✅ Active | 21 Aug 2026 |
 | P-099 | Lunos | ✅ | ❌ | $0 (pay-as-you-go) | [lunosrouter.com](https://lunosrouter.com/) | ✅ Active | 21 Aug 2026 |
+| P-100 | Kenari | ✅ | ✅ | Rp49rb/mo (Indie) | [kenari.id](https://kenari.id/) | ✅ Active | 27 Aug 2026 |
 
 ---
 
@@ -124,4 +125,4 @@
 
 ---
 
-*Total: 99 Providers*
+*Total: 100 Providers*
