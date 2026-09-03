@@ -48,7 +48,8 @@
 | ADE-036 | Waku | Native app for coding agents, Multi-agent timeline, Session management, Transcripts, Local-first, Keyboard-first | [waku.sh](https://waku.sh/) | ✅ Active | 21 Aug 2026 |
 | ADE-037 | OpenDesign | Agentic vibe design workspace, BYOK, 17 agent adapters, DESIGN.md systems, Local-first, Open source | [open-design.ai](https://open-design.ai/) | ✅ Active | 21 Aug 2026 |
 | ADE-038 | MonoCode | Desktop UI for coding agents, Multi-agent support (Claude Code/Codex/Cursor/OpenCode/Pi), Session tabs, Composer input, Diff viewer, Terminal, Editor | [usemono.dev](https://www.usemono.dev/) | ✅ Active | 22 Aug 2026 |
+| ADE-039 | BridgeMind One | Agent Super App, Vibe coding workspace, Named agents on routines, Multi-CLI support (Claude Code/Codex/Cursor), Terminal panes, Plugin gateway, Notch dictation | [bridgemind.ai](https://www.bridgemind.ai/) | ✅ Active | 03 Sep 2026 |
 
 ---
 
-*Total: 38 ADE*
+*Total: 39 ADE*

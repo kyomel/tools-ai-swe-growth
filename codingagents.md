@@ -55,7 +55,10 @@
 | CA-043 | MiniMax | [agent.minimax.io](https://agent.minimax.io/) | ✅ Active | 18 Aug 2026 |
 | CA-044 | Atomic | [bastani.ai](https://bastani.ai/) | ✅ Active | 18 Aug 2026 |
 | CA-045 | fx | [fx.sh](https://fx.sh/) | ✅ Active | 21 Aug 2026 |
+| CA-046 | Autolith | [github.com/lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) | ✅ Active | 03 Sep 2026 |
+| CA-047 | Ara | [ara.so](https://ara.so/) | ✅ Active | 03 Sep 2026 |
+| CA-048 | Perch AI | [perchai.app](https://www.perchai.app/) | ✅ Active | 03 Sep 2026 |
 
 ---
 
-*Total: 45 Coding Agents*
+*Total: 48 Coding Agents*

@@ -110,6 +110,9 @@
 | P-098 | Ramp Router | ✅ | ❌ | $0 (free through 2026) | [router.com](https://router.com/) | ✅ Active | 21 Aug 2026 |
 | P-099 | Lunos | ✅ | ❌ | $0 (pay-as-you-go) | [lunosrouter.com](https://lunosrouter.com/) | ✅ Active | 21 Aug 2026 |
 | P-100 | Kenari | ✅ | ✅ | Rp49rb/mo (Indie) | [kenari.id](https://kenari.id/) | ✅ Active | 27 Aug 2026 |
+| P-101 | GoRouter | ✅ | ❌ | $0 (pay-as-you-go) | [gorouter.app](https://gorouter.app/) | ✅ Active | 03 Sep 2026 |
+| P-102 | JembatanAI | ✅ | ✅ | Rp35rb (Daily) | [jembatanai.com](https://jembatanai.com/) | ✅ Active | 03 Sep 2026 |
+| P-103 | Orvix | ✅ | ❌ | $0 (pay-as-you-go) | [orvix.id](https://platform.orvix.id/) | ✅ Active | 03 Sep 2026 |
 
 ---
 
@@ -125,4 +128,4 @@
 
 ---
 
-*Total: 100 Providers*
+*Total: 103 Providers*
