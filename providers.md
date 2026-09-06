@@ -113,6 +113,7 @@
 | P-101 | GoRouter | ✅ | ❌ | $0 (pay-as-you-go) | [gorouter.app](https://gorouter.app/) | ✅ Active | 03 Sep 2026 |
 | P-102 | JembatanAI | ✅ | ✅ | Rp35rb (Daily) | [jembatanai.com](https://jembatanai.com/) | ✅ Active | 03 Sep 2026 |
 | P-103 | Orvix | ✅ | ❌ | $0 (pay-as-you-go) | [orvix.id](https://platform.orvix.id/) | ✅ Active | 03 Sep 2026 |
+| P-104 | Meta Model API | ✅ | ❌ | $0 (pay-as-you-go) | [developer.meta.com](https://developer.meta.com/ai/products/muse-code/) | ✅ Active | 06 Sep 2026 |
 
 ---
 
@@ -128,4 +129,4 @@
 
 ---
 
-*Total: 103 Providers*
+*Total: 104 Providers*

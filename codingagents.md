@@ -58,7 +58,8 @@
 | CA-046 | Autolith | [github.com/lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) | ✅ Active | 03 Sep 2026 |
 | CA-047 | Ara | [ara.so](https://ara.so/) | ✅ Active | 03 Sep 2026 |
 | CA-048 | Perch AI | [perchai.app](https://www.perchai.app/) | ✅ Active | 03 Sep 2026 |
+| CA-049 | Muse Code | [developer.meta.com/muse-code](https://developer.meta.com/ai/products/muse-code/) | ✅ Active | 06 Sep 2026 |
 
 ---
 
-*Total: 48 Coding Agents*
+*Total: 49 Coding Agents*
