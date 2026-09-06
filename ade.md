@@ -50,7 +50,8 @@
 | ADE-038 | MonoCode | Desktop UI for coding agents, Multi-agent support (Claude Code/Codex/Cursor/OpenCode/Pi), Session tabs, Composer input, Diff viewer, Terminal, Editor | [usemono.dev](https://www.usemono.dev/) | ✅ Active | 22 Aug 2026 |
 | ADE-039 | BridgeMind One | Agent Super App, Vibe coding workspace, Named agents on routines, Multi-CLI support (Claude Code/Codex/Cursor), Terminal panes, Plugin gateway, Notch dictation | [bridgemind.ai](https://www.bridgemind.ai/) | ✅ Active | 03 Sep 2026 |
 | ADE-040 | CRHQ | AI agent deployment platform, Multi-agent teams, Dedicated servers, Skills & scheduled jobs, Agent memory, Live feed monitoring, BYOM | [crhq.ai](https://crhq.ai/) | ✅ Active | 06 Sep 2026 |
+| ADE-041 | Padu | Native desktop app (Rust/GPUI), Multi-agent orchestration (Amp/Claude Code/Codex/Cursor/Fx/Grok/Kimi/OpenCode/Pi), Unified workspace, Queue & steer, Git-backed rewind, Daemon architecture, Web client, Local-first | [github.com/wisnuwiry/padu](https://github.com/wisnuwiry/padu) | ✅ Active | 06 Sep 2026 |
 
 ---
 
-*Total: 40 ADE*
+*Total: 41 ADE*
