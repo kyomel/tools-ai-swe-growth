@@ -118,6 +118,7 @@
 | P-106 | Netra | ✅ | ❌ | $0 (pay-as-you-go) | [netraruntime.com](https://netraruntime.com/) | ✅ Active | 07 Sep 2026 |
 | P-107 | OrcaRouter | ✅ | ✅ | $0 (free tier) | [orcarouter.ai](https://www.orcarouter.ai/) | ✅ Active | 07 Sep 2026 |
 | P-108 | APInex | ✅ | ❌ | $0 (free models) | [apinex.bond](https://apinex.bond/) | ✅ Active | 07 Sep 2026 |
+| P-109 | Vyce AI | ✅ | ❌ | $0 (free tier) | [vyceai.com](https://vyceai.com/) | ✅ Active | 07 Sep 2026 |
 
 ---
 
@@ -133,4 +134,4 @@
 
 ---
 
-*Total: 108 Providers*
+*Total: 109 Providers*
