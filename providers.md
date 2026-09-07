@@ -114,6 +114,8 @@
 | P-102 | JembatanAI | ✅ | ✅ | Rp35rb (Daily) | [jembatanai.com](https://jembatanai.com/) | ✅ Active | 03 Sep 2026 |
 | P-103 | Orvix | ✅ | ❌ | $0 (pay-as-you-go) | [orvix.id](https://platform.orvix.id/) | ✅ Active | 03 Sep 2026 |
 | P-104 | Meta Model API | ✅ | ❌ | $0 (pay-as-you-go) | [developer.meta.com](https://developer.meta.com/ai/products/muse-code/) | ✅ Active | 06 Sep 2026 |
+| P-105 | Deka LLM | ✅ | ❌ | $0 (pay-as-you-go) | [cloudeka.id](https://www.cloudeka.id/products/deka-llm/) | ✅ Active | 07 Sep 2026 |
+| P-106 | Netra | ✅ | ❌ | $0 (pay-as-you-go) | [netraruntime.com](https://netraruntime.com/) | ✅ Active | 07 Sep 2026 |
 
 ---
 
@@ -129,4 +131,4 @@
 
 ---
 
-*Total: 104 Providers*
+*Total: 106 Providers*
