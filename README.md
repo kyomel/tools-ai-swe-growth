@@ -8,9 +8,9 @@
 
 | ID | Kategori | Jumlah | Link |
 |----|----------|--------|------|
-| P | Providers | 109 | [providers.md](providers.md) |
+| P | Providers | 110 | [providers.md](providers.md) |
 | CA | Coding Agents | 49 | [codingagents.md](codingagents.md) |
-| ADE | AI Dev Environment | 41 | [ade.md](ade.md) |
+| ADE | AI Dev Environment | 42 | [ade.md](ade.md) |
 
 ---
 
@@ -22,4 +22,4 @@
 
 ---
 
-*Last Update: 07 September 2026, 17:09 WIB (GMT+7)*
+*Last Update: 11 September 2026, 20:24 WIB (GMT+7)*

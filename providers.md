@@ -119,6 +119,7 @@
 | P-107 | OrcaRouter | ✅ | ✅ | $0 (free tier) | [orcarouter.ai](https://www.orcarouter.ai/) | ✅ Active | 07 Sep 2026 |
 | P-108 | APInex | ✅ | ❌ | $0 (free models) | [apinex.bond](https://apinex.bond/) | ✅ Active | 07 Sep 2026 |
 | P-109 | Vyce AI | ✅ | ❌ | $0 (free tier) | [vyceai.com](https://vyceai.com/) | ✅ Active | 07 Sep 2026 |
+| P-110 | Token Harbor | ✅ | ✅ | $0 (free credits) | [tokenharbor.ai](https://tokenharbor.ai/) | ✅ Active | 11 Sep 2026 |
 
 ---
 
@@ -134,4 +135,4 @@
 
 ---
 
-*Total: 109 Providers*
+*Total: 110 Providers*
